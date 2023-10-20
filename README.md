@@ -2,7 +2,7 @@
 This repo has project of virtual internship program of  The Sparks Foundation .
 
 Firstly cleaned the data and removed all the unwanted columns from the data set and renamed the column headers.  
-The following results i got from the analysis:-
+I got from the following results from the analysis:-
 
 1. Success Rate by Type of Attacks
 2. Success Rate by Target Type
