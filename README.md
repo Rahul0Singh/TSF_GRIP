@@ -11,8 +11,7 @@ I got from the following results from the analysis:-
 5. Success Rate by Region
 6. Success Rate by Name of Group
 7. Total Attacks by Year
-8. Slicer -> country
-9. Cards-> i) Most Used Weapon
-		ii) Total Targets
+8. Cards->       i)  Most Used Weapon
+		ii)  Total Targets
 		iii) Maximum Attacks
-		iv) Most Deadly Group
+		iv)  Most Deadly Group
