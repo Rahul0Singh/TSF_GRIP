@@ -11,12 +11,12 @@ This repository contains a analysis of global terrorism data, focusing on variou
 - Renamed column headers to be more descriptive and consistent.
 
 ### Success Rate by Type of Attacks
-### 2. Success Rate by Target Type
-### 3. Success Rate by Weapon Type
-### 4. Success Rate by Country
-### 5. Success Rate by Region
-### 6. Success Rate by Name of Group
-### 7. Total Attacks by Year
+### Success Rate by Target Type
+### Success Rate by Weapon Type
+### Success Rate by Country
+### Success Rate by Region
+### Success Rate by Name of Group
+### Total Attacks by Year
 
 
 ## Key Metrics (Cards)
